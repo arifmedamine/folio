@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arifmedamine/folio/static/css/main.8a9fae30.css",
+    "main.js": "/arifmedamine/folio/static/js/main.dc4b34c5.js",
+    "static/js/787.704dcc05.chunk.js": "/arifmedamine/folio/static/js/787.704dcc05.chunk.js",
+    "static/media/coding.png": "/arifmedamine/folio/static/media/coding.656f6f9a46c45fd71b9f.png",
+    "static/media/captaincyber.png": "/arifmedamine/folio/static/media/captaincyber.f2dd789e97fe803c62f8.png",
+    "static/media/sign.png": "/arifmedamine/folio/static/media/sign.f2635ff5ba2b4139acd4.png",
+    "static/media/nest.png": "/arifmedamine/folio/static/media/nest.eadd775aec2280eab370.png",
+    "static/media/iam.png": "/arifmedamine/folio/static/media/iam.4c2c0a59d458ec12f132.png",
+    "static/media/619.png": "/arifmedamine/folio/static/media/619.510322e6fefb2001a7fb.png",
+    "static/media/resume.pdf": "/arifmedamine/folio/static/media/resume.c5514274adeb4e50f3f4.pdf",
+    "index.html": "/arifmedamine/folio/index.html",
+    "main.8a9fae30.css.map": "/arifmedamine/folio/static/css/main.8a9fae30.css.map",
+    "main.dc4b34c5.js.map": "/arifmedamine/folio/static/js/main.dc4b34c5.js.map",
+    "787.704dcc05.chunk.js.map": "/arifmedamine/folio/static/js/787.704dcc05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a9fae30.css",
+    "static/js/main.dc4b34c5.js"
+  ]
+}
